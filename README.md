@@ -69,7 +69,7 @@ Builds, tunes, and compares 8 regression models across two implementation tracks
 
 | File | Description |
 |---|---|
-| `Final_-_Assignment__2_-_Regularize_linear_regression_model__.ipynb` | Full pipeline — preprocessing, all 8 models, evaluation |
+| `house-price-prediction.ipynb` | Full pipeline — preprocessing, all 8 models, evaluation |
 | `train.csv` / `test.csv` | Raw house price dataset |
 | `result-with-best.csv` | Best-known submission baseline for comparison |
 | `*-submission.csv` | Model prediction outputs |
