@@ -1,0 +1,9 @@
+train.csv
+test.csv
+result-with-best.csv
+*-submission.csv
+__pycache__/
+.ipynb_checkpoints/
+.mrx-link-logs/
+*.csv
+beginners-prediction-top3.ipynb
